@@ -1,4 +1,4 @@
 # Random Quote Machine
 
 ## Running Random Quote Machine
-- Visit [https://random-quote-machine-pallavilanghe.netlify.app)
+- Visit [https://random-quote-machine-pallavilanghe.netlify.app](https://random-quote-machine-pallavilanghe.netlify.app)
